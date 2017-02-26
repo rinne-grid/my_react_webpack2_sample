@@ -1,14 +1,9 @@
-body {
-    margin: 0;
-    padding: 0;
-    line-height: 1.4;
-    font-family: sans-serif;
-}
-._2xPrxPH_bE_bg5c9cfkAU5 {
+.Button {
     background-color: #ddd;
     background-image: linear-gradient(#fcfcfc, #eee);
     font-size: 12px;
 }
-._2xPrxPH_bE_bg5c9cfkAU5:hover {
+
+.Button:hover {
     background-image: linear-gradient(#eee, #ddd);
 }
